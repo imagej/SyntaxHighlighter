@@ -134,6 +134,7 @@ class SyntaxHighlighter {
 			'f#' 		=> 'FSharp',
 			'f-sharp' 	=> 'FSharp',
 			'fsharp' 	=> 'FSharp',
+			'groovy' 	=> 'Groovy',
 			'haskell' 	=> 'Haskell',
 			'hs' 		=> 'Haskell',
 			'latex' 	=> 'Latex',
